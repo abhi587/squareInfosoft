@@ -1,4 +1,4 @@
-## collection is provided in the attachment.
+## postman collection is provided in the attachment.
 1. please copy the access token from the create user api's responce
 2. please paste that access token in header(x-api-key) of next api (get details by token)
 
